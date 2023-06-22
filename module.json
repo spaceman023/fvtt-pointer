@@ -22,12 +22,17 @@
       "lang": "de",
       "name": "Deutsch",
       "path": "lang/de.json"
+		},
+		{
+			"lang": "ja",
+			"name": "日本語",
+			"path": "lang/ja.json"
     }
   ],
   "compatibility": {
     "minimum": "10",
-    "verified": "10.285",
-    "maximum": "10"
+    "verified": "11.302",
+    "maximum": "11"
   },
   "socket": true,
   "manifest": "https://raw.githubusercontent.com/Moerill/fvtt-pointer/master/module.json",
