@@ -1,3 +1,8 @@
+# v2.5.0
+
+- Merge fix for Foundry V11 (from @Thorarin)
+- Merge japanese translations (from @BrotherSharper)
+
 # v2.4.1
 
 - Animations fixed thanks to github user @DavidAremaCarretero !
